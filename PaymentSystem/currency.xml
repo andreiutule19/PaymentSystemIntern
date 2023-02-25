@@ -1,0 +1,21 @@
+<currencies>
+    <currency>
+        <code>RON</code>
+        <eur-rate>4.91</eur-rate>
+        <usd-rate>4.75</usd-rate>
+        <ron-rate>1</ron-rate>
+    </currency>
+    <currency>
+        <code>EUR</code>
+        <ron-rate>0.20</ron-rate>
+        <usd-rate>0.97</usd-rate>
+        <eur-rate>1</eur-rate>
+    </currency>
+    <currency>
+        <code>USD</code>
+        <ron-rate>0.21</ron-rate>
+        <eur-rate>1.03</eur-rate>
+        <usd-rate>1</usd-rate>
+    </currency>
+
+</currencies>
